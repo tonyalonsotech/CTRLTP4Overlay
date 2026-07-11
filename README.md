@@ -3,7 +3,8 @@ An on-screen overlay that extends the Traktor Pro 4 interface with essential liv
 
 ## Why use this overlay?
 - **Missing UI Information:** The Native Instruments Traktor Pro 4 interface does not display several pieces of information that are available on dedicated hardware controllers such as the Traktor Kontrol D2, S5, S8, and S4 MK3.
-- **Hardware Independence:** Users without these specialized Traktor controllers can now view critical live information, including FX parameter values and Hotcue names, directly within the software interface.
+- **Integrated Controls:** Frequently used controls, including FX buttons and Hotcue triggers, are available directly from the overlay without requiring dedicated hardware.
+- **Hardware Independence:** Users without specialized Traktor controllers can now access live FX information, Hotcue names, and interactive performance controls directly within the software interface.
 
 ## How does the app work?
 - **CTRL TP4 Overlay** utilizes Traktor's native QML framework to create transparent overlay windows positioned directly over the Traktor interface. These overlays read and display live Traktor data using the same internal properties available to Native Instruments' hardware controllers.
@@ -15,6 +16,13 @@ An on-screen overlay that extends the Traktor Pro 4 interface with essential liv
 <img width="709" height="291" alt="image" src="https://github.com/user-attachments/assets/8891f392-94c7-496b-9322-b1e54f7b8357" />
 
 ## Version History
+
+### v1.1
+- **Hotcue Module:** Added an on-screen Hotcue module displaying all eight Hotcue names for Decks A and B.
+- **Interactive Hotcues:** Hotcue labels are fully clickable, allowing Hotcues to be triggered directly from the overlay.
+- **Visual Status Indicators:** Assigned Hotcues are highlighted while unused Hotcue slots remain dimmed for improved visibility.
+- **DPI Scaling Improvements:** Corrected transparent overlay window sizing on Windows systems using display scaling, eliminating invisible mouse input regions beneath overlay modules.
+- **Performance Improvements:** Refined overlay positioning and input handling for improved responsiveness and usability.
 
 ### v1.0
 - **Initial Release:** First public release of CTRL TP4 Overlay.
@@ -28,7 +36,6 @@ An on-screen overlay that extends the Traktor Pro 4 interface with essential liv
 ## Planned Additions
 
 ### Overlay Modules
-- Hotcue names displayed directly over the Traktor hotcue buttons.
 - Preview player controls.
 - Additional FX Unit support (Units 3 and 4).
 - Support for Group FX mode.
