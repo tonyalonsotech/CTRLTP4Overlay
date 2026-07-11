@@ -23,8 +23,11 @@ An on-screen overlay that extends the Traktor Pro 4 interface with essential liv
 - **FX Controls:** Includes clickable FX On, FX Button 1–3, and Previous/Next FX selection controls directly within the overlay.
 - **Known Limitation:** The standard Traktor FX selection dropdown is replaced with Previous and Next buttons due to overlay window limitations.
 
-##Planned Additions
-###Overlay Modules
+
+
+## Planned Additions
+
+### Overlay Modules
 - Hotcue names displayed directly over the Traktor hotcue buttons.
 - Preview player controls.
 - Additional FX Unit support (Units 3 and 4).
@@ -33,15 +36,15 @@ An on-screen overlay that extends the Traktor Pro 4 interface with essential liv
 - Touchscreen optimization.
 - Configurable user settings
 
-###User Experience
+### User Experience
  - Additional supported screen resolutions.
  - Customizable overlay positioning and layout.
  - Per-module enable/disable options.
 
-###Controls
+### Controls
 - Clickable Hotcue labels.
 - Additional interactive overlay controls.
 
-###Compatibility
+### Compatibility
 - Compatibility with future Traktor Pro releases.
 - Additional hardware mapping support.
