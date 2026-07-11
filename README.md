@@ -13,7 +13,8 @@ An on-screen overlay that extends the Traktor Pro 4 interface with essential liv
 ## Does the app save settings?
 - **Automatic Persistence:** Yes. Overlay settings are automatically saved and restored each time Traktor is launched.
 
-<img width="709" height="291" alt="image" src="https://github.com/user-attachments/assets/8891f392-94c7-496b-9322-b1e54f7b8357" />
+<img width="607" height="368" alt="image" src="https://github.com/user-attachments/assets/5124b6ee-dcb8-4b1d-8e50-defee1f88340" />
+
 
 ## Version History
 
