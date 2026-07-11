@@ -11,7 +11,7 @@ An on-screen overlay that displays essential information missing from the Trakto
 ## Does the app save settings?
 - **Automatic Persistence:** Yes, your preferences are automatically saved and restored every time you launch the application.
 
-<img width="860" height="540" alt="demo" src="https://tonyalonso.tech/projects/traktordisplay/demo.jpg" />
+<img width="709" height="291" alt="image" src="https://github.com/user-attachments/assets/8891f392-94c7-496b-9322-b1e54f7b8357" />
 
 ## Version History
 
