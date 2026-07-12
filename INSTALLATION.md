@@ -9,3 +9,4 @@
 
 3. **Launch App:**
    * Open Traktor and ensure the application window is **fully maximized**.
+   * Add the stock S8 mapping via controller manager.
