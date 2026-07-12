@@ -18,6 +18,10 @@ An on-screen overlay that extends the Traktor Pro 4 interface with essential liv
 
 ## Version History
 
+### V1.2
+- **Hotcue Module:** Hotcues now only show up when deck size is set to Advanced.
+- **Known Issue:** Hotcues do not show in Parallel Advanced view. This will be fixed in a future update.
+
 ### v1.1
 - **Hotcue Module:** Added an on-screen Hotcue module displaying all eight Hotcue names for Decks A and B.
 - **Interactive Hotcues:** Hotcue labels are fully clickable, allowing Hotcues to be triggered directly from the overlay.
@@ -31,7 +35,6 @@ An on-screen overlay that extends the Traktor Pro 4 interface with essential liv
 - **FX Support:** Supports FX Units 1 and 2 using the Single FX layout.
 - **FX Controls:** Includes clickable FX On, FX Button 1–3, and Previous/Next FX selection controls directly within the overlay.
 - **Known Limitation:** The standard Traktor FX selection dropdown is replaced with Previous and Next buttons due to overlay window limitations.
-
 
 
 ## Planned Additions
